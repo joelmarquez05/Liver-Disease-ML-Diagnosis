@@ -91,8 +91,7 @@ The **Extra Trees Classifier** was selected for the final submission due to its 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/joelmarquez05/indian-liver-patient-analysis.git
-    cd indian-liver-patient-analysis
+    git clone https://github.com/joelmarquez05/Liver-Disease-ML-Diagnosis.git
     ```
 
 2.  **Install the required libraries:**
